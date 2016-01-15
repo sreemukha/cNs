@@ -1,2 +1,2 @@
 # compareNsave
-Info architecture for web project
+Information architecture for the Web Project
