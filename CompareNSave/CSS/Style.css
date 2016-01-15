@@ -1,0 +1,98 @@
+nav{
+	border-radius: 0px !important;
+	background-color:#28324e;
+	padding-top: 20px;
+}
+.navbar-header .navbar-brand{
+	margin: 0;
+}
+#sugg{
+	padding-left: 0;
+	padding-right: 0;
+}
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+#ddMain{
+	color: white;
+	text-decoration: none;
+}
+#ddMain:link{
+  background-color: #28324e;
+}
+#ddMain:hover{
+	
+    background-color: #28324e;
+
+}
+#ddMain:visited{
+  background-color: #28324e;
+}
+#ddMain:active{
+  background-color: #28324e;
+}
+#dditem{
+	color: #28324e;
+	font-weight: bold;
+	text-decoration: none;
+}
+.navbar-header a{
+	color: white;
+}
+.hr{
+	padding-left: 10px;
+}
+hr{
+	margin-top: 10px;
+	padding-top: 10px;
+	border-width: 5px;
+}
+.storeLogo{
+	height: 75%;
+	width: 75%;
+}
+.logoPage{
+	height: 25%;
+	width: 25%;
+}
+#add,#prod,#dev{
+	margin: 5px;
+}
+.row-centered {
+    text-align:center;
+}
+#priceitem{
+	margin-bottom: 5px;
+}
+#itemname{
+	font-weight: bold;
+	font-size: 18px;
+}
+.productLogo{
+	height: 200px;
+	width: 200px;
+}
+textarea{
+	resize:none;
+}
+#formMessage,#footer{
+	padding-left: 10px;
+	font-size: 15px;
+	color: #28324e;
+}
+#devS{
+	height: 100%;
+	width: 77%;
+}
+.devPic{
+	height: 100%;
+	width: 50%;
+}
+#About{
+	padding: 5px;
+}
+#developers{
+	font-weight: bold;
+	font-size: 28px;
+	color: #28324e;
+}
